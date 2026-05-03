@@ -4,21 +4,21 @@ It demonstrates inheritance, polymorphism, and abstraction using different deliv
 
 Each delivery type has its own delivery behavior and fee calculation based on distance.
 
-CONCEPTS USED:
+## CONCEPTS USED:
 - Inheritance
 - Polymorphism (Method Overriding)
 - Abstraction (Abstract Class)
 - Dynamic Method Dispatch
 - Arrays of Parent Class Type
 
-PROJECT STRUCTURE:
-Main.java
-Delivery.java
-FoodDelivery.java
-GroceryDelivery.java
-PharmacyDelivery.java
+##  PROJECT STRUCTURE:
+- Main.java    
+- Delivery.java  
+- FoodDelivery.java  
+- GroceryDelivery.java  
+- PharmacyDelivery.java  
 
-FEATURES:
+## FEATURES:
 - Different delivery types (Food, Grocery, Pharmacy)
 - Custom delivery behavior for each type
 - Fee calculation based on distance
